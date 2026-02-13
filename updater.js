@@ -6,7 +6,7 @@ const { execSync } = require('child_process');
 
 const CONFIG = {
     currentVersion: '1.0.0',
-    updateUrl: 'https://api.github.com/repos/YOUR_USERNAME/flickers-calculator/releases/latest',
+    updateUrl: 'https://api.github.com/repos/Rimix98/Flickers-Calculator/releases/latest',
     downloadPath: './updates'
 };
 
